@@ -1,0 +1,89 @@
+% BibTex
+@misc{Article1,
+    author = "Katharina Schultebraucks and Marit Sijbrandij and Isaac Galatzer-Levya and Joanne Mouthaan and Miranda Olff and Mirjam van Zuiden",
+	title = {Forecasting individual risk for long-term Posttraumatic Stress Disorder in emergency medical settings using biomedical data: A machine learning multicenter cohort study},
+    year = {2021},
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2352289521000059}"
+}
+
+@misc{Article2, 
+    author = "Mohsen Ghorbian and Saeid Ghorbian",
+    title = {Usefulness of machine learning and deep learning approaches in screening and early detection of breast cancer},
+    year = {2023},
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2405844023096354}"
+}
+
+@misc{Article3,
+    author = "Osama Shahid and Mohammad Nasajpour and, Seyedamin Pouriyeh and Reza M. Parizi and Meng Han and Maria Valero and Fangyu Li and Mohammed Aledhari and Quan Z. Sheng",
+    title = {Machine learning research towards combating COVID-19: Virus detection, spread prevention, and medical assistance},
+    year = {2021},
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S1532046421000800}"
+}
+
+@misc{Article4,
+    title = "Theranostic roles of machine learning in clinical management of kidney stone disease",
+    author = "Supatcha Sassanarakkit and Sudarat Hadpech and Visith Thongboonkerd",
+    year = {2022},
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S200103702200561X}"
+}
+
+@misc{Article5,
+    title = "Application of machine learning in dementia diagnosis: A systematic literature review",
+    author = "Gauhar Kantayeva and José Lima and Ana I. Pereira",
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2405844023088345}",
+    year = {2023}
+}
+
+@misc{Article6, 
+    howpublished="\url{https://www.sciencedirect.com/science/article/pii/S2405844023039312}",
+    title="Machine learning and physical based modeling for cardiac hypertrophy",
+    author = "Bogdan Milićević and Miljan Milošević and Vladimir Simić and Andrej Preveden and Lazar Velicki and Đorđe Jakovljević and Zoran Bosnić and Matej Pičulin and Bojan Žunkovič and Miloš Kojić and Nenad Filipović",
+    year = {2023}}
+
+@misc{Article7,
+    howpublished="\url{https://www.sciencedirect.com/science/article/pii/S1110016823009717#s0015}",
+    year = {2023},
+    author = "Alanazi Rayan and Saad Alanazi",
+    title = "A novel approach to forecasting the mental well-being using machine learning"}
+
+@misc{Article8,
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S0939388918301181}",
+    title = "An overview of deep learning in medical imaging focusing on MRI",
+    author = "Alexander Selvikvåg Lundervold and Arvid Lundervold",
+    year = {2019}}
+
+@misc{Article9,
+howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2405844023106475}", 
+year={2023},
+author = "Jingwen Pei and Guobing Wang and Yi Li and Lan Li and Chang Li and Yu Wu and Jinbo Liu and Gang Tian
+",
+title = "Utility of four machine learning approaches for identifying ulcerative colitis and Crohn's disease"}
+
+@misc{Article10,
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S240584402307901X}",
+    year = {2023},
+    author = "Marcos Espinola-Sánchez and Silvia Sanca-Valeriano and Andres Campaña-Acuña and José Caballero-Alvarado ",
+    title = "Prediction of neonatal death in pregnant women in an intensive care unit: Application of machine learning models"
+}
+
+@misc{Article11,
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2405844023054713}",
+    year = {2023},
+    author = "Tong Zhou and Zhouting Ren and Yimei Ma and Linqian He and Jiali Liu and Jincheng Tang and Heping Zhang ",
+    title = "Early identification of bloodstream infection in hemodialysis patients by machine learning"
+}
+
+@misc{Article12,
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S2153353923000032}", 
+    year = {2023},
+    author = "Md. Ariful Islam and Md. Ziaul Hasan Majumder and Md. Alomgeer Hussein",
+    title = "Chronic kidney disease prediction based on machine learning algorithms"
+}
+
+@misc{Article13,
+    howpublished = "\url{https://www.sciencedirect.com/science/article/pii/S0168822723006733}", 
+    year = {2023},
+    author = "Toni Mora and David Roche and Beatriz Rodríguez-Sánchez",
+    title = "Predicting the onset of diabetes-related complications after a diabetes diagnosis with machine learning algorithms"
+
+}
